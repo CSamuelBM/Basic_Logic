@@ -1,4 +1,4 @@
-package M_N;
+package Cramer;
 
 import java.util.Scanner;
 
